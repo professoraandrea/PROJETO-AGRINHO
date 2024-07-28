@@ -9,6 +9,12 @@
     margin-right: 10px;
 }
 
-img.reduzida {
+img.reduzida { 
     width: 50%;
     height: auto; /* Mantém a proporção da imagem */
+}
+    
+img.reduzida-fixa {
+    width: 300px;
+    height: auto; /* Mantém a proporção da imagem */
+}
