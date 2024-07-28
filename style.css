@@ -1,20 +1,5 @@
-.cor-menu{
-    background-color: brown;
-    width: 100%;
-    padding: 8px;
-}
-
-.menu-img{
-    width: 20px;
-    margin-right: 10px;
-}
-
-img.reduzida { 
-    width: 50%;
-    height: auto; /* Mantém a proporção da imagem */
-}
+.menu-cabecallho{
+    background-color: red;
     
-img.reduzida-fixa {
-    width: 300px;
-    height: auto; /* Mantém a proporção da imagem */
 }
+
